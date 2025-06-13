@@ -48,3 +48,6 @@ Functional demonstration of how the chatbot processes inputs and responds using 
 Optional: Enhancements like GUI using Tkinter or additional features like small talk and jokes.
 ## *Conclusion:*
 This task helps us to gain core knowledge about how Natural Language Processing can be used to create human-like interactions in software. It emphasizes logical thinking, use of libraries, and code structuring. Successfully completing this task is a step forward in understanding the world of AI and conversational bots.
+
+# *OUTPUT*
+![Image](https://github.com/user-attachments/assets/58e9ac50-6648-4b13-86ab-7529288bcc01)
